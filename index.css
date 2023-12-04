@@ -15,7 +15,7 @@
 body {
     font-family: 'Outfit', sans-serif;
     background: linear-gradient(161.5deg, #1F252E 50%, #fff 50%);
-    height: 100vh;
+   
     color: #ffffff;
 }
 /* Genral */
@@ -183,8 +183,8 @@ section{
     display: grid;
     justify-content: center;
     align-items: center;
-    width: 100%;
-    height: 100%;
+    width: auto;
+    height: auto;
     top: 10;
 }
 .black{
